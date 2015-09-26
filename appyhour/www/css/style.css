@@ -1,0 +1,36 @@
+/* Empty. Add your own CSS if you like */
+.card{
+  background-color: transparent;
+}
+.item img {
+    max-width: 100%;
+    max-height: 200px;
+}
+input[type=file] {
+    height: 0;
+    overflow: auto;
+}
+.uploadButton {
+    margin-top: -40px;
+}
+.whatsthis {
+    margin-top: 10px;
+    background-color: white;
+    border-radius: 5px;
+    border: 4px;
+    border-style: solid;
+    border-color: #add8e6;
+    
+}
+.whatsthis h1 {
+    font-size: 20px;
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+.logoback {
+    background-color: #145fd7;
+}
